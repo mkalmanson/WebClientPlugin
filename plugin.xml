@@ -1,0 +1,11 @@
+<plugin name='web-client-plugin' version='0.1' grailsVersion='2.4 &gt; *'>
+  <author>Your name</author>
+  <title>Web Client Plugin Plugin</title>
+  <description>Brief summary/description of the plugin.
+</description>
+  <documentation>http://grails.org/plugin/web-client-plugin</documentation>
+  <type>WebClientPluginGrailsPlugin</type>
+  <resources>
+    <resource>webclient.WebClientService</resource>
+  </resources>
+</plugin>
